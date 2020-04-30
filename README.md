@@ -10,24 +10,24 @@ A LibreOffice spreadsheet for performing various science fiction related calcula
 
 * **Constants**: Collection of physical constants used in the spreadsheet's internals.
 * **Star**: Star related calculators.
-  * Magnitude <-> luminosity converter
-  * Magnitude/distance calculator
-  * Luminosity difference calculator
-  * Star properties calculator
+  * Magnitude <-> luminosity
+  * Magnitude/distance
+  * Luminosity difference
+  * Star properties
 * **Planet**: Planet calculators.
-  * Physical properties calculator
-  * Orbital properties calculator
-  * Planetary habitability calculator
+  * Physical properties
+  * Orbital properties
+  * Planetary habitability
 * **Satellite**: Calculators pertaining to natural satellites, i.e. moons.
-  * Satellite appearance calculator
-  * Satellite orbit calculator
+  * Satellite appearance
+  * Satellite orbit
 * **Impact**: Impact calculators.
-  * Impact and crater calculator
+  * Impact and crater
 * **Travel**: Space travel calculators.
-  * Light years <-> parsec converter
-  * FTL factor calculator
-  * FTL travel time calculator
-  * Time dilation calculator
+  * Light years <-> parsec
+  * FTL factor
+  * FTL travel time
+  * Time dilation
 
 
 ### Write protection ###
