@@ -18,6 +18,8 @@ A LibreOffice spreadsheet for performing various science fiction related calcula
   * Physical properties
   * Orbital properties
   * Planetary habitability
+  * Population density
+  * City area
 * **Satellite**: Calculators pertaining to natural satellites, i.e. moons.
   * Satellite appearance
   * Satellite orbit
@@ -42,6 +44,7 @@ SFCalcSheet attempts to keep algebraic complexity on a manageable level for the 
 * Star radius
 * Star temperature
 * Star habitable zone
+* Roche limit
 * Greenhouse effect part of planetary temperature
 * Impact crater size
 
