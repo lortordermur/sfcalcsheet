@@ -1,12 +1,12 @@
-**SFCalcSheet** – Science Fiction Calculation Spreadsheet
+**SFCalcSheet** – Science fiction calculation spreadsheet for LibreOffice
 
 
 ### Summary ###
 
-A LibreOffice spreadsheet for performing various science fiction related calculations.
+This is a LibreOffice Calc spreadsheet for performing various science fiction and astronomy related calculations. The aim is to cover all common math problems in SF while keeping it simple for the user.
 
 
-### Included sheets and functions ###
+### Included calculators and converters ###
 
 * **Constants**: Collection of physical constants used in the spreadsheet's internals.
 * **Star**: Star related calculators.
