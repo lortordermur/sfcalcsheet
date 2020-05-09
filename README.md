@@ -30,6 +30,8 @@ A LibreOffice spreadsheet for performing various science fiction related calcula
   * FTL factor
   * FTL travel time
   * Time dilation
+  * m/s <-> km/h
+  * Uniform acceleration
 
 
 ### Write protection ###
