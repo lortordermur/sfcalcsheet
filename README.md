@@ -51,6 +51,7 @@ SFCalcSheet attempts to keep algebraic complexity on a manageable level for the 
 * Roche limit
 * Greenhouse effect part of planetary temperature
 * Impact crater size
+* Vehicle mass
 
 
 ### Frequently asked questions ###
