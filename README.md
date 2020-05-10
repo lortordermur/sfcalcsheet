@@ -56,6 +56,10 @@ SFCalcSheet attempts to keep algebraic complexity on a manageable level for the 
 
 ### Frequently asked questions ###
 
+**I miss a specific calculator or feature.**
+
+Great, and this can be helped! Just create an issue on [sfcalcsheet's issue tracker](https://github.com/lortordermur/sfcalcsheet/issues) and I will look into it.
+
 **I cannot edit templates. The dialog simply does not open.**
 
 To fix this you must unprotect all sheets by right-clicking on each one's tab and selecting the appropriate option in the pop-up menu.
