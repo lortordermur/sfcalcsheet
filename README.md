@@ -25,6 +25,8 @@ This is a LibreOffice Calc spreadsheet for performing various science fiction an
   * Satellite orbit
 * **Impact**: Impact calculators.
   * Impact and crater
+* **Creature**: Calculators related to living beings.
+  * Body weight
 * **Vehicle**: Vehicle calculators.
   * Vehicle mass and personnel
 * **Travel**: Space travel calculators.
