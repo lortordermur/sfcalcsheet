@@ -27,6 +27,8 @@ This is a LibreOffice Calc spreadsheet for performing various science fiction an
   * Impact and crater
 * **Creature**: Calculators related to living beings.
   * Body weight
+* **Structure**: Calculators for large structures.
+  * Structure properties and resources
 * **Vehicle**: Vehicle calculators.
   * Vehicle mass and personnel
 * **Travel**: Space travel calculators.
