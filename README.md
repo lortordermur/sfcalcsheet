@@ -23,6 +23,8 @@ This is a LibreOffice Calc spreadsheet for performing various science fiction an
 * **Satellite**: Calculators pertaining to natural satellites, i.e. moons.
   * Satellite appearance
   * Satellite orbit
+* **Compact**: Compact object calculators.
+  * Schwarzschild black hole properties
 * **Impact**: Impact calculators.
   * Impact and crater
 * **Creature**: Calculators related to living beings.
@@ -66,8 +68,8 @@ Great, and this can be helped! Just create an issue on [sfcalcsheet's issue trac
 
 **I cannot edit templates. The dialog simply does not open.**
 
-To fix this you must unprotect all sheets by right-clicking on each one's tab and selecting the appropriate option in the pop-up menu.
+To fix this you must unprotect all sheets. You can do so by selecting all tabs using shift-click and selecting `Tools->Protect Sheet` from the main menu.
 
 **I would like to see the hidden interim calculations.**
 
-You can do so by editing a format template. Bring up the template sidebar using the F11 key and right-click on the "InterimResult" template. Choose to edit, and on the text effects tab set the text color to anything other than black.
+This can be easily done by editing a format template. Bring up the template sidebar using the F11 key and right-click on the "InterimResult" template. Choose to edit, and on the text effects tab set the text color to anything other than black.
