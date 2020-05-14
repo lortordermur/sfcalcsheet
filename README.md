@@ -27,6 +27,7 @@ This is a LibreOffice Calc spreadsheet for performing various science fiction an
   * Schwarzschild black hole properties
 * **Impact**: Impact calculators.
   * Impact and crater
+  * Neutron matter explosion
 * **Creature**: Calculators related to living beings.
   * Body weight
 * **Structure**: Calculators for large structures.
