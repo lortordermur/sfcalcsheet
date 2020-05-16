@@ -13,6 +13,7 @@ This is a LibreOffice Calc spreadsheet for performing various science fiction an
   * Magnitude <-> luminosity
   * Magnitude/distance
   * Luminosity difference
+  * Star color
   * Star properties
 * **Planet**: Planet calculators.
   * Physical properties
