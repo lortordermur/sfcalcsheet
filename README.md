@@ -16,8 +16,10 @@ This is a LibreOffice Calc spreadsheet for performing various science fiction an
   * Star color
   * Star properties
 * **Planet**: Planet calculators.
+  * Mass converter
   * Physical properties
   * Orbital properties
+  * Tidal forces
   * Planetary habitability
   * Population density
   * City area
