@@ -18,6 +18,7 @@ This is a LibreOffice Calc spreadsheet for performing various science fiction an
 * **Planet**: Planet calculators.
   * Mass converter
   * Physical properties
+  * km <-> AU
   * Orbital properties
   * Tidal forces
   * Planetary habitability
