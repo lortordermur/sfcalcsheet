@@ -32,8 +32,9 @@ This is a LibreOffice Calc spreadsheet for performing various science fiction an
 * **Impact**: Impact calculators.
   * Impact and crater
   * Neutron matter explosion
-* **Creature**: Calculators related to living beings.
-  * Body weight
+* **Life**: Calculators related to living beings.
+  * Creature body weight
+  * Vegetation color
 * **Structure**: Calculators for large structures.
   * Structure properties and resources
 * **Vehicle**: Vehicle calculators.
@@ -62,6 +63,7 @@ SFCalcSheet attempts to keep algebraic complexity on a manageable level for the 
 * Roche limit
 * Greenhouse effect part of planetary temperature
 * Impact crater size
+* Vegetation color
 * Vehicle mass
 
 
