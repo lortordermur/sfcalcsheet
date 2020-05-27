@@ -39,13 +39,14 @@ This is a LibreOffice Calc spreadsheet for performing various science fiction an
   * Structure properties and resources
 * **Vehicle**: Vehicle calculators.
   * Vehicle mass and personnel
-* **Travel**: Space travel calculators.
+* **Travel**: Travel calculators.
   * Light years <-> parsec
   * FTL factor
   * FTL travel time
   * Time dilation
   * m/s <-> km/h
   * Uniform acceleration
+  * Terrestrial travel time
 
 
 ### Write protection ###
