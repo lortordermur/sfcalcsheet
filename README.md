@@ -9,6 +9,12 @@ This is a LibreOffice Calc spreadsheet for performing various science fiction an
 ### Included calculators and converters ###
 
 * **Constants**: Collection of physical constants used in the spreadsheet's internals.
+* **Conversion**: Unit conversion (mostly SI <-> USCS)
+  * Length unit converter
+  * Area unit converter
+  * Volume unit converter
+  * Weight unit converter
+  * Temperature unit converter
 * **Star**: Star related calculators.
   * Magnitude <-> luminosity
   * Magnitude/distance
@@ -72,7 +78,7 @@ SFCalcSheet attempts to keep algebraic complexity on a manageable level for the 
 
 **I miss a specific calculator or feature.**
 
-Great, and this can be helped! Just create an issue on [sfcalcsheet's issue tracker](https://github.com/lortordermur/sfcalcsheet/issues) and I will look into it.
+Great, and this can be helped! Just file an issue on [sfcalcsheet's issue tracker](https://github.com/lortordermur/sfcalcsheet/issues) and I will look into it.
 
 **I cannot edit templates. The dialog simply does not open.**
 
