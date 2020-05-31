@@ -9,12 +9,15 @@ This is a LibreOffice Calc spreadsheet for performing various science fiction an
 ### Included calculators and converters ###
 
 * **Constants**: Collection of physical constants used in the spreadsheet's internals.
-* **Conversion**: Unit conversion (mostly SI <-> USCS)
-  * Length unit converter
-  * Area unit converter
-  * Volume unit converter
-  * Weight unit converter
-  * Temperature unit converter
+* **Conversion**: Unit conversion
+  * Light years <-> parsec
+  * km <-> AU
+  * m/s <-> km/h
+  * Temperature
+  * Length (SI <-> USCS)
+  * Area (SI <-> USCS)
+  * Volume (SI <-> USCS)
+  * Mass/weight (SI <-> USCS)
 * **Star**: Star related calculators.
   * Magnitude <-> luminosity
   * Magnitude/distance
@@ -24,7 +27,6 @@ This is a LibreOffice Calc spreadsheet for performing various science fiction an
 * **Planet**: Planet calculators.
   * Mass converter
   * Physical properties
-  * km <-> AU
   * Orbital properties
   * Tidal forces
   * Planetary habitability
@@ -46,11 +48,9 @@ This is a LibreOffice Calc spreadsheet for performing various science fiction an
 * **Vehicle**: Vehicle calculators.
   * Vehicle mass and personnel
 * **Travel**: Travel calculators.
-  * Light years <-> parsec
   * FTL factor
   * FTL travel time
   * Time dilation
-  * m/s <-> km/h
   * Uniform acceleration
   * Terrestrial travel time
 
