@@ -9,7 +9,7 @@ This is a LibreOffice Calc spreadsheet for performing various science fiction an
 ### Included calculators and converters ###
 
 * **Constants**: Collection of physical constants used in the spreadsheet's internals.
-* **Conversion**: Unit conversion
+* **Conversion**: Unit conversion.
   * Light years <-> parsec
   * km <-> AU
   * m/s <-> km/h
