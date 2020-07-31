@@ -24,6 +24,7 @@ This is a LibreOffice Calc spreadsheet for performing various science fiction an
   * Luminosity difference
   * Star color
   * Star properties
+  * Binary orbit
 * **Planet**: Planet calculators.
   * Mass converter
   * Physical properties
