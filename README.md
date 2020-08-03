@@ -77,6 +77,15 @@ SFCalcSheet attempts to keep algebraic complexity on a manageable level for the 
 
 ### Frequently asked questions ###
 
+**Does it work in office suites other than LibreOffice?**
+
+Not without flaws so far. SFCalcSheet uses some pretty fancy OpenDocument features and formatting, and therefore cannot be guaranteed to fully function in every office software. Apart from LibreOffice it has been tested in the following:
+
+* **Google Sheets**: Mostly works but background colors are weird—likely due to poor template handling.
+* **SoftMaker Office**: Completely functional but calculator headings don’t show, as well as some background colors in random places.
+
+Alas, those glitches cannot be fixed without breaking SFCalcSheet in LibreOffice.
+
 **Where can I see the equations?**
 
 Most of the math is (invisibly) performed in the cells right of the calculator boxes. If you move the selection to those you can see the formula in the input line at the top of the window. However, the wiki has it conveniently [all on one page](https://github.com/lortordermur/sfcalcsheet/wiki/Formulas).
