@@ -41,6 +41,7 @@ This is a [LibreOffice Calc](https://www.libreoffice.org) spreadsheet for perfor
 * **Impact**: Impact calculators.
   * Impact and crater
   * Neutron matter explosion
+  * Bomb blast
 * **Life**: Calculators related to living beings.
   * Creature body weight
   * Vegetation color
@@ -71,6 +72,7 @@ SFCalcSheet attempts to keep algebraic complexity on a manageable level for the 
 * Roche limit
 * Greenhouse effect part of planetary temperature
 * Impact crater size
+* Bomb blast fireball radius
 * Vegetation color
 * Vehicle mass
 
