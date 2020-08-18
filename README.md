@@ -5,6 +5,8 @@
 
 This is a [LibreOffice Calc](https://www.libreoffice.org) spreadsheet for performing various science fiction and astronomy related calculations. The aim is to cover all common math problems in SF while keeping it simple for the user. The spreadsheet can assist with world-building in science fiction and fantasy, or be used as an aid in amateur astronomy.
 
+To get started you can check out the [releases page](https://github.com/lortordermur/sfcalcsheet/releases) or [browse the fomulas](https://github.com/lortordermur/sfcalcsheet/wiki/Formulas) that are used in the spreadsheet.
+
 
 ### Included calculators and converters ###
 
