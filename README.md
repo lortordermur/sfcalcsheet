@@ -87,6 +87,8 @@ Not without flaws so far. SFCalcSheet uses some pretty fancy OpenDocument featur
 
 * **Google Sheets**: Mostly works but background colors are weird—likely due to poor template handling.
 * **SoftMaker Office**: Completely functional but calculator headings don’t show, as well as some background colors in random places.
+* **Collabora Office**: Based on current LibreOffice, both the Android and desktop versions work flawlessly and without visual glitches.
+* **AndrOpen Office**: Outdated OpenDocument support, only partly functional.
 
 Alas, those glitches cannot be fixed without breaking SFCalcSheet in LibreOffice.
 
