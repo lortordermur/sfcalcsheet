@@ -85,7 +85,7 @@ SFCalcSheet attempts to keep algebraic complexity on a manageable level for the 
 
 Not without flaws so far. SFCalcSheet uses some pretty fancy OpenDocument features and formatting, and therefore cannot be guaranteed to fully function in every office software. Apart from LibreOffice it has been tested in the following:
 
-* **Google Sheets**: Mostly works but background colors are weird—likely due to poor template handling.
+* **Google Sheets**: Completely functional after post-v0.09 fixes.
 * **SoftMaker Office**: Completely functional but calculator headings don’t show, as well as some background colors in random places.
 * **Collabora Office**: Based on current LibreOffice, both the Android and desktop versions work flawlessly and without visual glitches.
 * **AndrOpen Office**: Outdated OpenDocument support, only partly functional.
