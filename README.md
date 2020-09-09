@@ -85,13 +85,25 @@ SFCalcSheet attempts to keep algebraic complexity on a manageable level for the 
 
 Not without flaws so far. SFCalcSheet uses some pretty fancy OpenDocument features and formatting, and therefore cannot be guaranteed to fully function in every office software. Apart from LibreOffice it has been tested in the following:
 
-* **Google Sheets**: Completely functional after post-v0.09 fixes. Visual glitches with framed cells.
-* **Microsoft 365**: Near-completely functional after post-v0.10 fixes. The only broken parts are the display of star color temperature and the height of word-wrapped cells.
-* **Collabora Office**: Based on current LibreOffice, both the Android and desktop versions work flawlessly and without visual glitches.
-* **SoftMaker Office**: Completely functional but calculator headings don’t show, as well as some background colors in random places.
-* **AndrOpen Office**: Outdated OpenDocument support, only partly functional.
+* **Desktop software**
 
-Alas, those glitches cannot be fixed without breaking SFCalcSheet in LibreOffice.
+  * **Collabora Office**: Based on current LibreOffice. Both the Android and desktop versions work flawlessly and without visual glitches.
+  * **SoftMaker Office**: Completely functional but calculator headings don’t show, as well as some background colors in random places.
+  * **SoftMaker FreeOffice**: Outdated OpenDocument support, only partly functional.
+
+* **Web applications**
+
+  * **Google Sheets**: Completely functional after post-v0.09 fixes. Visual glitches with framed cells.
+  * **Microsoft 365**/**Excel Online**: Near-completely functional after post-v0.10 fixes. The only broken parts are the display of star color temperature and the height of word-wrapped cells.
+
+* **Android apps**
+
+  * **Collabora Office**: Same engine as the desktop software, completely functional.
+  * **Google Sheets**: Same engine as the web application, completely functional.
+  * **Excel**: Outdated OpenDocument support, only partly functional.
+  * **AndrOpen Office**: Outdated OpenDocument support, only partly functional.
+
+Alas, many remaining glitches cannot be fixed without breaking SFCalcSheet in LibreOffice.
 
 **Where can I see the equations?**
 
