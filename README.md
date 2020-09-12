@@ -120,3 +120,7 @@ To fix this you must unprotect all sheets. You can do so by selecting all tabs u
 **I would like to see the hidden interim calculations.**
 
 This can be easily done by editing a format template. Bring up the template sidebar using the F11 key and right-click on the "InterimResult" template. Choose to edit, and on the text effects tab set the text color to anything other than black.
+
+**Some cells containing large results are too narrow for their content. What can I do?**
+
+Unlock the current sheet using `Tools->Protect Sheet` and then use the handles on the column bar to adjust the width.
