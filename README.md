@@ -115,7 +115,7 @@ It is scientific exponential notation for very large and very small numbers. “
 
 **I am tired of typing sizable numbers with lots of zeros.**
 
-Fortunately, the aforementioned exponential notation is available in every numerical input field in SFCalcSheet. If you need to do some preparatory math before keying in the values, just type your calculation into [Google](https://www.google.com) or [Wolfram Alpha](https://www.wolframalpha.com).
+Fortunately, the aforementioned exponential notation is available in every numerical input field in SFCalcSheet. If you need to do some preparatory math before keying in the values, use the “Simple Calculator” on the Conversion sheet or type your calculation into [Google](https://www.google.com) or [Wolfram Alpha](https://www.wolframalpha.com).
 
 **I miss a specific calculator or feature.**
 
