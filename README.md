@@ -113,6 +113,10 @@ Most of the math is (invisibly) performed in the cells right of the calculator b
 
 It is scientific exponential notation for very large and very small numbers. “E” is a shorthand for “ten to the power of”. Hence, 12.34E+56 is identical to 12.34 ✕ 10⁵⁶, and 12.34E-56 is identical to 12.34 ✕ 10⁻⁵⁶.
 
+**I am tired of typing sizable numbers with lots of zeros.**
+
+Fortunately, the aforementioned exponential notation is available in every numerical input field in SFCalcSheet. If you need to do some preparatory math before keying in the values, just type your calculation into [Google](https://www.google.com) or [Wolfram Alpha](https://www.wolframalpha.com).
+
 **I miss a specific calculator or feature.**
 
 Great, and this can be helped! Just file an issue on [sfcalcsheet’s issue tracker](https://github.com/lortordermur/sfcalcsheet/issues) and I will look into it.
