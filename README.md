@@ -20,6 +20,7 @@ To get started you can check out the [releases page](https://github.com/lortorde
   * Area (SI <-> USCS)
   * Volume (SI <-> USCS)
   * Mass/weight (SI <-> USCS)
+  * Simple calculator
 * **Star**: Star related calculators.
   * Magnitude <-> luminosity
   * Magnitude/distance
