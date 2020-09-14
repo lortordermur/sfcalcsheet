@@ -135,3 +135,13 @@ This can be easily done by editing a format template. Bring up the template side
 **Some cells containing large results are too narrow for their content. What can I do?**
 
 Unlock the current sheet using `Tools->Protect Sheet` and then use the handles on the column bar to adjust the width.
+
+
+### How you can support the project ###
+
+There are a couple of ways you can participate and help:
+
+* Leave some feedback, praise or anecdotes [on Reddit](https://www.reddit.com/r/worldbuilding/comments/iodfba/sfcalcsheet_science_fiction_calculation).
+* [Star](https://github.com/lortordermur/sfcalcsheet/stargazers) SFCalcSheet on GitHub.
+* [File an issue](https://github.com/lortordermur/sfcalcsheet/issues) on GitHub for a long-standing quirk or wanted feature.
+* Test and debug SFCalcSheet on various office suites. 99% of this is template work and determining whether a software does not support certain functions, conditional formattings or text/frame features. If you manage to fix a glitch and it does not break SFCalcSheet in LibreOffice and other office suites, please post step by step instructions for it on the Reddit thread.
