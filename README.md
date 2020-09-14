@@ -104,6 +104,7 @@ Not without flaws so far. SFCalcSheet uses some pretty fancy OpenDocument featur
   * **Google Sheets**: Same engine as the web application, completely functional.
   * **Excel**: Outdated OpenDocument support, only partly functional.
   * **AndrOpen Office**: Outdated OpenDocument support, only partly functional.
+  * **Zoho Sheet**: Same engine and glitches as the web application.
 
 Alas, many remaining glitches cannot be fixed without breaking SFCalcSheet in LibreOffice.
 
