@@ -96,6 +96,7 @@ Not without flaws so far. SFCalcSheet uses some pretty fancy OpenDocument featur
 
   * **Google Sheets**: Completely functional after post-v0.09 fixes. Visual glitches with framed cells.
   * **Microsoft 365**/**Excel Online**: Near-completely functional after post-v0.10 fixes. The only broken parts are the display of star color temperature and the height of word-wrapped cells.
+  * **Zoho sheet**: Mostly functional but calculator headings don’t show, and calculators using the IFS function (such as “Simple calculator” and “Structure properties and resources”) don’t work.
 
 * **Android apps**
 
