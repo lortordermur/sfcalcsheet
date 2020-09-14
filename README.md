@@ -84,27 +84,29 @@ SFCalcSheet attempts to keep algebraic complexity on a manageable level for the 
 
 **Does it work in office suites other than LibreOffice?**
 
-Not without flaws so far. SFCalcSheet uses some pretty fancy OpenDocument features and formatting, and therefore cannot be guaranteed to fully function in every office software. Apart from LibreOffice it has been tested in the following:
+Not without flaws so far. SFCalcSheet uses some pretty fancy OpenDocument features and formatting, and therefore cannot be guaranteed to fully function in every office software. Apart from LibreOffice it has been tested in the following office suites stating OpenDocument support:
 
 * **Desktop software**
 
-  * **Collabora Office**: Based on current LibreOffice. Both the Android and desktop versions work flawlessly and without visual glitches.
+  * **Collabora Office**: Based on current LibreOffice. ***Completely functional*** without visual glitches.
   * **SoftMaker Office**: Completely functional but calculator headings don’t show, as well as some background colors in random places.
   * **SoftMaker FreeOffice**: Outdated OpenDocument support, only partly functional.
 
 * **Web applications**
 
-  * **Google Sheets**: Completely functional after post-v0.09 fixes. Visual glitches with framed cells.
-  * **Microsoft 365**/**Excel Online**: Near-completely functional after post-v0.10 fixes. The only broken parts are the display of star color temperature and the height of word-wrapped cells.
+  * **Google Sheets**: ***Completely functional*** after post-v0.09 fixes. Visual glitches with framed cells.
+  * **Microsoft 365**/**Excel Online**: ***Near-completely functional*** after post-v0.10 fixes. The only broken parts are the display of star color temperature and the height of word-wrapped cells.
   * **Zoho sheet**: Mostly functional but calculator headings don’t show, and calculators using the IFS function (such as “Simple calculator” and “Structure properties and resources”) don’t work.
 
 * **Android apps**
 
-  * **Collabora Office**: Same engine as the desktop software, completely functional.
-  * **Google Sheets**: Same engine as the web application, completely functional.
-  * **Excel**: Outdated OpenDocument support, only partly functional.
+  * **Collabora Office**: Same engine as the desktop software, ***completely functional***.
+  * **Google Sheets**: Same engine as the web application, ***completely functional***.
+  * **Excel/Microsoft Office**: Outdated OpenDocument support, only partly functional.
   * **AndrOpen Office**: Outdated OpenDocument support, only partly functional.
   * **Zoho Sheet**: Same engine and glitches as the web application.
+  * **OpenDocument Reader**: All text displayed white on black, editing non-functional.
+  * **ONLYOFFICE documents**: Input text and most result text displayed in black, only partly functional.
 
 Alas, many remaining glitches cannot be fixed without breaking SFCalcSheet in LibreOffice.
 
