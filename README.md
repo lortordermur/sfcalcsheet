@@ -124,13 +124,13 @@ Fortunately, the aforementioned exponential notation is available in every numer
 
 Great, and this can be helped! Just file an issue on [sfcalcsheet’s issue tracker](https://github.com/lortordermur/sfcalcsheet/issues) and I will look into it.
 
-**I cannot edit templates. The dialog simply does not open.**
+**I cannot edit cell styles. The dialog simply does not open.**
 
 To fix this you must unprotect all sheets. You can do so by selecting all tabs using shift-click and selecting `Tools->Protect Sheet` from the main menu.
 
 **I would like to see the hidden interim calculations.**
 
-This can be easily done by editing a format template. Bring up the template sidebar using the F11 key and right-click on the “InterimResult” template. Choose to edit, and on the text effects tab set the text color to anything other than black.
+This can be easily done by editing a cell style. Bring up the styles sidebar using the F11 key and right-click on the “InterimResult” style. Choose to edit, and on the font effects tab set the text color to anything other than black.
 
 **Some cells containing large results are too narrow for their content. What can I do?**
 
@@ -144,4 +144,4 @@ There are a couple of ways you can participate and help:
 * Leave some feedback, praise or anecdotes [on Reddit](https://www.reddit.com/r/worldbuilding/comments/iodfba/sfcalcsheet_science_fiction_calculation).
 * [Star](https://github.com/lortordermur/sfcalcsheet/stargazers) SFCalcSheet on GitHub.
 * [File an issue](https://github.com/lortordermur/sfcalcsheet/issues) on GitHub for a long-standing quirk or wanted feature.
-* Test and debug SFCalcSheet on various office suites. 99% of this is template work and determining whether a software does not support certain functions, conditional formattings or text/frame features. If you manage to fix a glitch and it does not break SFCalcSheet in LibreOffice and other office suites, please post step by step instructions for it on the Reddit thread.
+* Test and debug SFCalcSheet on various office suites. 99% of this is work on cell styles and determining whether a software does not support certain functions, conditional formattings or text/frame features. If you manage to fix a glitch and it does not break SFCalcSheet in LibreOffice and other office suites, please post step by step instructions for it on the Reddit thread.
