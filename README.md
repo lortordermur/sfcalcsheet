@@ -1,9 +1,11 @@
-**SFCalcSheet** – Science fiction calculation spreadsheet for LibreOffice
+**SFCalcSheet** – Science fiction calculation spreadsheet
 
 
 ### Summary ###
 
-This is a [LibreOffice Calc](https://www.libreoffice.org) spreadsheet for performing various science fiction and astronomy related calculations. The aim is to cover all common math problems in SF while keeping it simple for the user. The spreadsheet can assist with world-building in science fiction and fantasy, or be used as an aid in amateur astronomy.
+This is a [LibreOffice Calc](https://www.libreoffice.org) spreadsheet for performing various science fiction and astronomy related calculations. The aim is to cover all common math problems in SF while keeping it simple for the user. The spreadsheet can assist with worldbuilding in science fiction and fantasy, or be used as an aid in amateur astronomy.
+
+Apart from LibreOffice, SFCalcSheet works very nicely in a number of additional office suites including [Google Sheets](https://docs.google.com/spreadsheets), [Excel Online](https://www.office.com/launch/excel) and [Collabora Office](https://www.collaboraoffice.com/).
 
 To get started you can check out the [releases page](https://github.com/lortordermur/sfcalcsheet/releases) or [browse the formulas](https://github.com/lortordermur/sfcalcsheet/wiki/Formulas) that are used in the spreadsheet. If you would like to share informal feedback or constructive criticism, there is an [official Reddit thread](https://www.reddit.com/r/worldbuilding/comments/iodfba/sfcalcsheet_science_fiction_calculation) as well.
 
@@ -62,7 +64,7 @@ To get started you can check out the [releases page](https://github.com/lortorde
 
 ### Write protection ###
 
-To avoid overwriting the default values by an accidental save, the spreadsheet file can be write protected in Unix-like environments using `chmod 444 sfcalcsheet.ods`. These permissions allow for the file to be opened for editing (you might get an additional prompt for this) but it cannot be saved to the same file. You can make the file writable again with `chmod 664 sfcalcsheet.ods`.
+To avoid overwriting the default values by an accidental save, the spreadsheet file can be write protected in Unix-like environments using `chmod 444 sfcalcsheet.ods`. These permissions allow for the file to be opened for editing (you might get an additional prompt for this) but it cannot be saved back to the same file. You can make the file writable again with `chmod 664 sfcalcsheet.ods`.
 
 
 ### Caveats ###
@@ -82,14 +84,14 @@ SFCalcSheet attempts to keep algebraic complexity on a manageable level for the 
 
 ### Frequently asked questions ###
 
-**Does it work in office suites other than LibreOffice?**
+**Does it really work in office suites other than LibreOffice?**
 
-Not without flaws so far. SFCalcSheet uses some pretty fancy OpenDocument features and formatting, and therefore cannot be guaranteed to fully function in every office software. Apart from LibreOffice it has been tested in the following office suites stating OpenDocument support:
+Yes, but in several cases only with serious flaws that cannot be fixed in the spreadsheet. SFCalcSheet uses some pretty fancy OpenDocument functions and cell styles, and therefore cannot be guaranteed to fully function in every office software. Apart from LibreOffice it has been tested in the following office suites featuring OpenDocument support:
 
 * **Desktop software**
 
   * **Collabora Office**: Based on current LibreOffice. ***Completely functional*** without visual glitches.
-  * **SoftMaker Office**: Completely functional but calculator headings don’t show, as well as some background colors in random places.
+  * **SoftMaker Office**: Well-functioning but calculator headings don’t show, as well as some background colors in random places.
   * **SoftMaker FreeOffice**: Outdated OpenDocument support, only partly functional.
 
 * **Web applications**
@@ -108,7 +110,7 @@ Not without flaws so far. SFCalcSheet uses some pretty fancy OpenDocument featur
   * **OpenDocument Reader**: All text displayed white on black, editing non-functional.
   * **ONLYOFFICE documents**: Input text and most result text displayed in black, only partly functional.
 
-Alas, many remaining glitches cannot be fixed without breaking SFCalcSheet in LibreOffice.
+Alas, many of the remaining glitches cannot be fixed without breaking SFCalcSheet in LibreOffice, because oftentimes OpenDocument support is outdated or incomplete.
 
 **Where can I see the equations?**
 
