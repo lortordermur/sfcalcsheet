@@ -5,7 +5,7 @@
 
 This is a [LibreOffice Calc](https://www.libreoffice.org) spreadsheet for performing various science fiction and astronomy related calculations. The aim is to cover all common math problems in SF while keeping it simple for the user. The spreadsheet can assist with worldbuilding in science fiction and fantasy, or be used as an aid in amateur astronomy.
 
-Apart from LibreOffice, SFCalcSheet works very nicely in a number of additional office suites including [Google Sheets](https://docs.google.com/spreadsheets), [Excel Online](https://www.office.com/launch/excel) and [Collabora Office](https://www.collaboraoffice.com/).
+Apart from LibreOffice, SFCalcSheet also works nicely in a number of additional office suites including [Google Sheets](https://docs.google.com/spreadsheets), [Excel Online](https://www.office.com/launch/excel) and [Collabora Office](https://www.collaboraoffice.com/).
 
 To get started you can check out the [releases page](https://github.com/lortordermur/sfcalcsheet/releases) or [browse the formulas](https://github.com/lortordermur/sfcalcsheet/wiki/Formulas) that are used in the spreadsheet. If you would like to share informal feedback or constructive criticism, there is an [official Reddit thread](https://www.reddit.com/r/worldbuilding/comments/iodfba/sfcalcsheet_science_fiction_calculation) as well.
 
@@ -110,7 +110,7 @@ Yes, but in several cases only with serious flaws that cannot be fixed in the sp
   * **OpenDocument Reader**: All text displayed white on black, editing non-functional.
   * **ONLYOFFICE documents**: Input text and most result text displayed in black, only partly functional.
 
-Alas, many of the remaining glitches cannot be fixed without breaking SFCalcSheet in LibreOffice, because oftentimes OpenDocument support is outdated or incomplete.
+Alas, many of the remaining glitches cannot be fixed without breaking SFCalcSheet in LibreOffice, because OpenDocument support is oftentimes outdated or incomplete.
 
 **Where can I see the equations?**
 
