@@ -93,11 +93,12 @@ Yes, but in several cases only with serious flaws that cannot be fixed in the sp
   * **Collabora Office**: Based on current LibreOffice. ***Completely functional*** without visual glitches.
   * **SoftMaker Office**: Well-functioning but calculator headings don’t show, as well as some background colors in random places.
   * **SoftMaker FreeOffice**: Outdated OpenDocument support, only partly functional.
+  * **Microsoft Excel**: ***Near-completely functional***. The only broken parts are the display of star color temperature and the height of word-wrapped cells.
 
 * **Web applications**
 
   * **Google Sheets**: ***Completely functional*** after post-v0.09 fixes. Visual glitches with framed cells.
-  * **Microsoft 365**/**Excel Online**: ***Near-completely functional*** after post-v0.10 fixes. The only broken parts are the display of star color temperature and the height of word-wrapped cells.
+  * **Microsoft 365**/**Excel Online**: ***Near-completely functional*** after post-v0.10 fixes. Same glitches as in the desktop suite.
   * **Zoho sheet**: Mostly functional but calculator headings don’t show, and calculators using the IFS function (such as “Simple calculator” and “Structure properties and resources”) don’t work.
 
 * **Android apps**
