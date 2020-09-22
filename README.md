@@ -43,7 +43,7 @@ To get started you can check out the [releases page](https://github.com/lortorde
   * Satellite orbit
 * **Compact**: Compact object calculators.
   * Schwarzschild black hole properties
-* **Impact**: Impact calculators.
+* **Disaster**: Disaster calculators.
   * Impact and crater
   * Neutron matter explosion
   * Bomb blast
