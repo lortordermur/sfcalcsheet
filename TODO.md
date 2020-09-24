@@ -7,3 +7,4 @@
 * Visible light vs. total radiative flux in planetary habitability calculator
 * Radiation belts and their effects on planetary habitability
 * Ring system calculator (estimate from mass and particle density)
+* Account for the age of a star when calculating its radius and luminosity
