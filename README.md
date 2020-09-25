@@ -1,4 +1,4 @@
-**SFCalcSheet** – Science fiction calculation spreadsheet
+**SFCalcSheet** – The science fiction calculation spreadsheet
 
 
 ### Summary ###
