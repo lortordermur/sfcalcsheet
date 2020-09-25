@@ -3,9 +3,9 @@
 
 ### Summary ###
 
-This is a [LibreOffice Calc](https://www.libreoffice.org) spreadsheet for performing various science fiction and astronomy related calculations. The aim is to cover all common math problems in SF while keeping it simple for the user. The spreadsheet can assist with worldbuilding in science fiction and fantasy, or be used as an aid in amateur astronomy.
+This is a cross-suite spreadsheet for performing various science fiction and astronomy related calculations. The aim is to cover all common math problems in SF while keeping it simple for the user. The spreadsheet can assist with worldbuilding in science fiction and fantasy, or be used as an aid in amateur astronomy.
 
-Apart from LibreOffice, SFCalcSheet also works nicely in a number of additional office suites including [Google Sheets](https://docs.google.com/spreadsheets), [Excel Online](https://www.office.com/launch/excel) and [Collabora Office](https://www.collaboraoffice.com/).
+While being developed and maintained in [LibreOffice Calc](https://www.libreoffice.org), SFCalcSheet also works nicely in a number of additional office suites including [Google Sheets](https://docs.google.com/spreadsheets), [Excel Online](https://www.office.com/launch/excel) and [Collabora Office](https://www.collaboraoffice.com/).
 
 To get started you can check out the [releases page](https://github.com/lortordermur/sfcalcsheet/releases) or [browse the formulas](https://github.com/lortordermur/sfcalcsheet/wiki/Formulas) that are used in the spreadsheet. There are a few [how-tos](https://github.com/lortordermur/sfcalcsheet/wiki/How%E2%80%90tos) too. If you would like to share informal feedback or constructive criticism, there is an [official Reddit thread](https://www.reddit.com/r/worldbuilding/comments/iodfba/sfcalcsheet_science_fiction_calculation) as well.
 
