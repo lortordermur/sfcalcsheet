@@ -29,6 +29,7 @@ To get started you can check out the [releases page](https://github.com/lortorde
   * Luminosity difference
   * Star color
   * Star properties
+  * Star evolution
   * Binary orbit
 * **Planet**: Planet calculators.
   * Mass converter
