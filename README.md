@@ -102,7 +102,7 @@ Yes, but in several cases only with serious flaws that cannot be fixed in the sp
 
   * **Google Sheets**: ***Completely functional*** after post-v0.09 fixes. Visual glitches with framed cells.
   * **Microsoft 365**/**Excel Online**: ***Near-completely functional*** after post-v0.10 fixes. Same glitches as in the desktop suite.
-  * **Zoho sheet**: Mostly functional but calculator headings don’t show, and calculators using the IFS function (such as “Simple calculator” and “Structure properties and resources”) don’t work.
+  * **Zoho sheet**: Mostly functional but calculator headings don’t show, and calculators using the IFS function (such as “Simple calculator” and “Structure properties and resources”) don’t work properly.
 
 * **Android apps**
 
@@ -154,6 +154,7 @@ For this, please message [/u/lortordermur](https://www.reddit.com/user/lortorder
 There are a couple of ways you can participate and help:
 
 * Leave some feedback, praise or anecdotes [on Reddit](https://www.reddit.com/r/worldbuilding/comments/iodfba/sfcalcsheet_science_fiction_calculation).
+* Request a specific calculator or feature in the Reddit thread.
 * Post some useful formulas in the Reddit thread and maybe I will turn them into a calculator.
 * [Star](https://github.com/lortordermur/sfcalcsheet/stargazers) SFCalcSheet on GitHub.
 * [File an issue](https://github.com/lortordermur/sfcalcsheet/issues) on GitHub for a long-standing quirk or wanted feature.
