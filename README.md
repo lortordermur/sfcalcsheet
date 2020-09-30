@@ -78,6 +78,7 @@ SFCalcSheet attempts to keep algebraic complexity on a manageable level for the 
 * Star habitable zone
 * Roche limit
 * Greenhouse effect part of planetary temperature
+* Interaction of planetary/lunar magnetic fields
 * Impact crater size
 * Bomb blast fireball radius
 * Vegetation color
