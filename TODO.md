@@ -8,4 +8,4 @@
 * Radiation belts and their effects on lunar habitability
 * Ring system calculator (estimate from mass and particle density)
 * Account for the age of a star when calculating its radius and luminosity
-  * **DONE: “Stellar evolution” calculator**
+  * **Done: “Stellar evolution” calculator**
