@@ -42,6 +42,7 @@ To get started you can check out the [releases page](https://github.com/lortorde
 * **Satellite**: Calculators pertaining to natural satellites, i.e. moons.
   * Satellite appearance
   * Satellite orbit
+  * Lunar habitability
 * **Compact**: Compact object calculators.
   * Schwarzschild black hole properties
 * **Disaster**: Disaster calculators.
