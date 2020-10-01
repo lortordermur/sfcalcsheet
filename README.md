@@ -87,7 +87,7 @@ SFCalcSheet attempts to keep algebraic complexity on a manageable level for the 
 
 ### Frequently asked questions ###
 
-**Does it really work in office suites other than LibreOffice?**
+#### Does it really work in office suites other than LibreOffice? ####
 
 Yes, but in several cases only with serious flaws that cannot be fixed in the spreadsheet. SFCalcSheet uses some pretty fancy OpenDocument functions and cell styles, and therefore cannot be guaranteed to fully function in every office software. Apart from LibreOffice it has been tested in the following office suites featuring OpenDocument support:
 
@@ -116,39 +116,39 @@ Yes, but in several cases only with serious flaws that cannot be fixed in the sp
 
 Alas, many of the remaining glitches cannot be fixed without breaking SFCalcSheet in LibreOffice, because OpenDocument support is oftentimes outdated or incomplete.
 
-**Where can I see the equations?**
+#### Where can I see the equations? ####
 
 Most of the math is (invisibly) performed in the cells right of the calculator boxes. If you move the selection to those you can see the formula in the input line at the top of the window. However, the wiki has it conveniently [all on one page](https://github.com/lortordermur/sfcalcsheet/wiki/Formulas).
 
-**What are those 12.34E+56 numbers about?**
+#### What are those 12.34E+56 numbers about? ####
 
 It is scientific exponential notation for very large and very small numbers. “E” is a shorthand for “ten to the power of”. Hence, 12.34E+56 is identical to 12.34 ✕ 10⁵⁶, and 12.34E-56 is identical to 12.34 ✕ 10⁻⁵⁶.
 
-**I am tired of typing sizable numbers with lots of zeros.**
+#### I am tired of typing sizable numbers with lots of zeros. ####
 
 Fortunately, the aforementioned exponential notation is available in every numerical input field in SFCalcSheet. If you need to do some preparatory math before keying in the values, use the “Simple Calculator” on the Conversion sheet or type your calculation into [Google](https://www.google.com) or [Wolfram Alpha](https://www.wolframalpha.com).
 
-**I miss a specific calculator or feature.**
+#### I miss a specific calculator or feature. ####
 
 Great, and this can be helped! Just file an issue on [sfcalcsheet’s issue tracker](https://github.com/lortordermur/sfcalcsheet/issues) and I will look into it.
 
-**I cannot edit cell styles. The dialog simply does not open.**
+#### I cannot edit cell styles. The dialog simply does not open. ####
 
 To fix this you must unprotect all sheets. You can do so by selecting all tabs using shift-click and selecting `Tools->Protect Sheet` from the main menu.
 
-**I would like to see the hidden interim calculations.**
+#### I would like to see the hidden interim calculations. ####
 
 This can be easily done by editing a cell style. Bring up the styles sidebar using the F11 key and right-click on the “InterimResult” style. Choose to edit, and on the font effects tab set the text color to anything other than black.
 
-**Some cells containing large results are too narrow for their content. What can I do?**
+#### Some cells containing large results are too narrow for their content. What can I do? ####
 
 Unlock the current sheet using `Tools->Protect Sheet` and then use the handles on the column bar to adjust the width.
 
-**What is that nice sans font in the LibreOffice screenshots?**
+#### What is that nice sans font in the LibreOffice screenshots? ####
 
 It is SFCalcSheet’s default font, [DejaVu Sans](https://dejavu-fonts.github.io). It comes preinstalled on most desktop Linux distributions.
 
-**How can I send you a private message?**
+#### How can I send you a private message? ####
 
 For this, please message [/u/lortordermur](https://www.reddit.com/user/lortordermur) on Reddit.
 
