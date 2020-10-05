@@ -144,6 +144,10 @@ This can be easily done by editing a cell style. Bring up the styles sidebar usi
 
 Unlock the current sheet using `Tools->Protect Sheet` and then use the handles on the column bar to adjust the width.
 
+#### Long footnotes appear cut off in the calculators. ####
+
+This is a known issue in Excel and there is currently no fix for it. To see the whole text, select the cell with the footnote so you can read the text from the input line at the top of the window.
+
 #### What is that nice sans font in the LibreOffice screenshots? ####
 
 It is SFCalcSheet’s default font, [DejaVu Sans](https://dejavu-fonts.github.io). It comes preinstalled on most desktop Linux distributions.
