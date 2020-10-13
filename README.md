@@ -78,6 +78,7 @@ SFCalcSheet attempts to keep algebraic complexity on a manageable level for the 
 * Star temperature
 * Star habitable zone
 * Roche limit
+* Albedo of planetary rings
 * Greenhouse effect part of planetary temperature
 * Interaction of planetary/lunar magnetic fields
 * Impact crater size
