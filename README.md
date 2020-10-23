@@ -89,6 +89,12 @@ SFCalcSheet attempts to keep algebraic complexity on a manageable level for the 
 
 ### Frequently asked questions ###
 
+#### How do I get it downloaded and running? ####
+
+Click on the [latest release](https://github.com/lortordermur/sfcalcsheet/releases/latest) in the right-hand sidebar. On the release page, under “assets”, click the sfcalcsheet-vx.xx.zip file. Download this file to a subfolder in your usual download location and unpack it. If you have an office suite installed (such as Microsoft Office or [LibreOffice](https://libreoffice.org)), open sfcalcsheet.ods and you are done. Should this not work, but you have Google Drive or OneDrive, save sfcalcsheet.ods to it, then click the uploaded file to open it in a web-based office suite.
+
+Here is [a more comprehensive how-to](https://github.com/lortordermur/sfcalcsheet/wiki/How%E2%80%90to%3A-Download-and-run-SFCalcSheet).
+
 #### Does it really work in office suites other than LibreOffice? ####
 
 Yes, but in several cases only with serious flaws that cannot be fixed in the spreadsheet. SFCalcSheet uses some pretty fancy OpenDocument functions and cell styles, and therefore cannot be guaranteed to fully function in every office software. Apart from LibreOffice it has been tested in the following office suites featuring OpenDocument support:
