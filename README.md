@@ -116,6 +116,9 @@ Yes, but in several cases only with serious flaws that cannot be fixed in the sp
   * **OpenDocument Reader**: All text displayed white on black, editing non-functional.
   * **ONLYOFFICE documents**: Input text and most result text displayed in black, only partly functional.
 
+* **iOS apps**
+  * **Microsoft Excel**: Same engine and glitches as the web application, ***near-completely functional***.
+
 Alas, many of the remaining glitches cannot be fixed without breaking SFCalcSheet in LibreOffice, because OpenDocument support is oftentimes outdated or incomplete.
 
 #### Where can I see the equations? ####
