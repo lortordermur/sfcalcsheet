@@ -37,6 +37,7 @@ To get started you can check out the [releases page](https://github.com/lortorde
   * Orbital properties
   * Tidal forces
   * Ring system
+  * Planetary albedo
   * Planetary habitability
   * Population density
   * City area
