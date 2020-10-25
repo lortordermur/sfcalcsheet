@@ -82,6 +82,7 @@ SFCalcSheet attempts to keep algebraic complexity on a manageable level for the 
 * Albedo of planetary rings
 * Greenhouse effect part of planetary temperature
 * Interaction of planetary/lunar magnetic fields
+* Black hole lifetime
 * Impact crater size
 * Bomb blast fireball radius
 * Vegetation color
