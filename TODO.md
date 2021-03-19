@@ -11,3 +11,4 @@
 * Account for the age of a star when calculating its radius and luminosity
   * **Done: “Stellar evolution” calculator**
 * Support giant branch in “Stellar evolution” calculator
+* Calculator for matter/antimatter explosions
