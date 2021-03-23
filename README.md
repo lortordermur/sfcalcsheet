@@ -121,6 +121,7 @@ Yes, but in several cases only with serious flaws that cannot be fixed in the sp
   * **Excel/Microsoft Office**: Outdated OpenDocument support, only partly functional.
   * **AndrOpen Office**: Outdated OpenDocument support, only partly functional.
   * **Zoho Sheet**: Same engine and glitches as the web application.
+  * **PlanMaker**: Calculator headings don’t show, special characters are not represented, glitched up footnote color, otherwise functional.
   * **OpenDocument Reader**: All text displayed white on black, editing non-functional.
   * **ONLYOFFICE documents**: Input text and most result text displayed in black, only partly functional.
 
