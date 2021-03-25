@@ -12,3 +12,5 @@
   * **Done: “Stellar evolution” calculator**
 * Support giant branch in “Stellar evolution” calculator
 * Calculator for matter/antimatter explosions
+ * **Done: “Matter/antimatter annihilation” calculator**
+ 
