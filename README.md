@@ -50,6 +50,7 @@ To get started you can check out the [releases page](https://github.com/lortorde
 * **Disaster**: Disaster calculators.
   * Impact and crater
   * Neutron matter explosion
+  * Matter/antimatter annihilation
   * Bomb blast
 * **Life**: Calculators related to living beings.
   * Creature body weight
