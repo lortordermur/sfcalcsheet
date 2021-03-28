@@ -10,7 +10,7 @@
   * **Done: “Ring system” calculator**
 * Account for the age of a star when calculating its radius and luminosity
   * **Done: “Stellar evolution” calculator**
-* Support giant branch in “Stellar evolution” calculator
+* Support giant branch in “Stellar evolution” calculator; find some approximation for the duration of the red-giant branch transition in relation to a star’s mass or MS luminosity; something logarithmic will probably work well
 * Calculator for matter/antimatter explosions
   * **Done: “Matter/antimatter annihilation” calculator**
  
