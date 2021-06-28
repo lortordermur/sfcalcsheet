@@ -146,7 +146,7 @@ Fortunately, the aforementioned exponential notation is available in every numer
 
 #### I miss a specific calculator or feature. ####
 
-Great, and this can be helped! Just file an issue on [sfcalcsheet’s issue tracker](https://github.com/lortordermur/sfcalcsheet/issues) and I will look into it.
+Great, and this can be helped! Just file an issue on [SFCalcSheet’s issue tracker](https://github.com/lortordermur/sfcalcsheet/issues) and I will look into it.
 
 #### I cannot edit cell styles. The dialog simply does not open. ####
 
@@ -170,7 +170,7 @@ It is SFCalcSheet’s default font, [DejaVu Sans](https://dejavu-fonts.github.io
 
 #### How can I send you a private message? ####
 
-For this, please message [/u/lortordermur](https://www.reddit.com/user/lortordermur) on Reddit. You can also message me in SFCalcSheet’s [Discord channel](https://discord.gg/TTumbhQ).
+For this, please message [/u/lortordermur](https://www.reddit.com/user/lortordermur) on Reddit. You can also message me on my [Discord server](https://discord.gg/TTumbhQ).
 
 
 ### How you can support the project ###
@@ -182,4 +182,4 @@ There are a couple of ways you can participate and help:
 * Post some useful formulas in the Reddit thread or in the Discord channel and maybe I will turn them into a calculator.
 * [Star](https://github.com/lortordermur/sfcalcsheet/stargazers) SFCalcSheet on GitHub.
 * [File an issue](https://github.com/lortordermur/sfcalcsheet/issues) on GitHub for a long-standing quirk or wanted feature.
-* Test and debug SFCalcSheet on various office suites. 99% of this is work on cell styles and determining whether a software does not support certain functions, conditional formattings or text/frame features. If you manage to fix a glitch and it does not break SFCalcSheet in LibreOffice and other office suites, please post step by step instructions for it in the Reddit thread.
+* Test and debug SFCalcSheet on various office suites. 99% of this is work on cell styles and determining whether a software does not support certain functions, conditional formattings or text/frame features. If you manage to fix a glitch and it does not break SFCalcSheet in LibreOffice and other office suites, please post step by step instructions for it in the Reddit thread or on Discord.
