@@ -170,16 +170,16 @@ It is SFCalcSheet’s default font, [DejaVu Sans](https://dejavu-fonts.github.io
 
 #### How can I send you a private message? ####
 
-For this, please message [/u/lortordermur](https://www.reddit.com/user/lortordermur) on Reddit.
+For this, please message [/u/lortordermur](https://www.reddit.com/user/lortordermur) on Reddit. You can also message me in SFCalcSheet’s [Discord channel](https://discord.gg/TTumbhQ).
 
 
 ### How you can support the project ###
 
 There are a couple of ways you can participate and help:
 
-* Leave some feedback, praise or anecdotes [on Reddit](https://www.reddit.com/r/worldbuilding/comments/iodfba/sfcalcsheet_science_fiction_calculation).
-* Request a specific calculator or feature in the Reddit thread.
-* Post some useful formulas in the Reddit thread and maybe I will turn them into a calculator.
+* Leave some feedback, praise or anecdotes [on Reddit](https://www.reddit.com/r/worldbuilding/comments/iodfba/sfcalcsheet_science_fiction_calculation) or [Discord](https://discord.gg/TTumbhQ).
+* Request a specific calculator or feature.
+* Post some useful formulas in the Reddit thread or in the Discord channel and maybe I will turn them into a calculator.
 * [Star](https://github.com/lortordermur/sfcalcsheet/stargazers) SFCalcSheet on GitHub.
 * [File an issue](https://github.com/lortordermur/sfcalcsheet/issues) on GitHub for a long-standing quirk or wanted feature.
 * Test and debug SFCalcSheet on various office suites. 99% of this is work on cell styles and determining whether a software does not support certain functions, conditional formattings or text/frame features. If you manage to fix a glitch and it does not break SFCalcSheet in LibreOffice and other office suites, please post step by step instructions for it in the Reddit thread.
