@@ -52,6 +52,7 @@ To get started you can check out the [releases page](https://github.com/lortorde
   * Neutron matter explosion
   * Matter/antimatter annihilation
   * Bomb blast
+  * Earthquake
 * **Life**: Calculators related to living beings.
   * Creature body weight
   * Vegetation color
