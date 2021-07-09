@@ -1,5 +1,7 @@
 **SFCalcSheet** – The science fiction calculation spreadsheet
 
+**[Download](https://github.com/lortordermur/sfcalcsheet/releases/latest) · [Screenshots](https://github.com/lortordermur/sfcalcsheet/wiki/Screenshots) · [How-tos](https://github.com/lortordermur/sfcalcsheet/wiki/How%E2%80%90tos) · [Formulas](https://github.com/lortordermur/sfcalcsheet/wiki/Formulas)**
+
 
 ### Summary ###
 
@@ -182,4 +184,4 @@ There are a couple of ways you can participate and help:
 * Post some useful formulas in the Reddit thread or in the Discord channel and maybe I will turn them into a calculator.
 * [Star](https://github.com/lortordermur/sfcalcsheet/stargazers) SFCalcSheet on GitHub.
 * [File an issue](https://github.com/lortordermur/sfcalcsheet/issues) on GitHub for a long-standing quirk or wanted feature.
-* Test and debug SFCalcSheet on various office suites. 99% of this is work on cell styles and determining whether a software does not support certain functions, conditional formattings or text/frame features. If you manage to fix a glitch and it does not break SFCalcSheet in LibreOffice and other office suites, please post step by step instructions for it in the Reddit thread or on Discord.
+* Test and/or debug SFCalcSheet on various office suites, and post the results in the Reddit thread or on Discord.
