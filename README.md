@@ -103,7 +103,7 @@ Here is [a comprehensive how-to](https://github.com/lortordermur/sfcalcsheet/wik
 
 #### How can I stay updated about new releases? ####
 
-The easiest way to not miss out on SFCalcSheet releases is to subscribe to the [Atom feed](https://github.com/lortordermur/sfcalcsheet/releases.atom). Alternatively you can join the [Discord channel](https://discord.gg/TTumbhQ) which will notify you of any commit to the repository.
+The easiest way to not miss out on SFCalcSheet releases is to subscribe to the [Atom feed](https://github.com/lortordermur/sfcalcsheet/releases.atom) or follow me [on Twitter](https://twitter.com/lortordermur). Alternatively you can join the [Discord channel](https://discord.gg/TTumbhQ) which will notify you of any commits to the repository.
 
 #### Does it really work in office suites other than LibreOffice? ####
 
@@ -176,7 +176,7 @@ It is SFCalcSheet’s default font, [DejaVu Sans](https://dejavu-fonts.github.io
 
 #### How can I send you a private message? ####
 
-For this, please message [/u/lortordermur](https://www.reddit.com/user/lortordermur) on Reddit. You can also message me on my [Discord server](https://discord.gg/TTumbhQ).
+For this, please message [/u/lortordermur](https://www.reddit.com/user/lortordermur) on Reddit or [lortordermur](https://twitter.com/lortordermur) on Twitter. You can also message me on my [Discord server](https://discord.gg/TTumbhQ).
 
 
 ### How you can support the project ###
