@@ -13,4 +13,4 @@
 * Support giant branch in “Stellar evolution” calculator; find some approximation for the duration of the red-giant branch transition in relation to a star’s mass or MS luminosity; something logarithmic will probably work well
 * Calculator for matter/antimatter explosions
   * **Done: “Matter/antimatter annihilation” calculator**
- 
+* Metallicity parameter in “Star properties” and “Stellar evolution” calculators
