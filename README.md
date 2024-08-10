@@ -33,6 +33,7 @@ To get started you can check out the [releases page](https://github.com/lortorde
   * Star properties
   * Stellar evolution
   * Binary orbit
+  * Stellar wind
 * **Planet**: Planet calculators.
   * Mass converter
   * Physical properties
