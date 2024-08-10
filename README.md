@@ -1,6 +1,8 @@
+![SFCalcSheet logo](logo.png)
+
 **SFCalcSheet** – The science fiction calculation spreadsheet
 
-**[Download](https://github.com/lortordermur/sfcalcsheet/releases/latest) · [Screenshots](https://github.com/lortordermur/sfcalcsheet/wiki/Screenshots) · [How-tos](https://github.com/lortordermur/sfcalcsheet/wiki/How%E2%80%90tos) · [Formulas](https://github.com/lortordermur/sfcalcsheet/wiki/Formulas)**
+**[Download](https://github.com/lortordermur/sfcalcsheet/releases/latest) · [Screenshots](https://github.com/lortordermur/sfcalcsheet/wiki/Screenshots) · [How-tos](https://github.com/lortordermur/sfcalcsheet/wiki/How%E2%80%90tos) · [Formulas](https://github.com/lortordermur/sfcalcsheet/blob/master/formulas.pdf)**
 
 
 ### Summary ###
@@ -9,7 +11,7 @@ This is a cross-suite spreadsheet for performing various science fiction and ast
 
 While being developed and maintained in [LibreOffice Calc](https://www.libreoffice.org), SFCalcSheet also works nicely in a number of additional office suites including [Google Sheets](https://docs.google.com/spreadsheets), [Excel Online](https://www.office.com/launch/excel) and [Collabora Office](https://www.collaboraoffice.com/).
 
-To get started you can check out the [releases page](https://github.com/lortordermur/sfcalcsheet/releases), [some screenshots](https://github.com/lortordermur/sfcalcsheet/wiki/Screenshots), or [browse the formulas](https://github.com/lortordermur/sfcalcsheet/wiki/Formulas) that are used in the spreadsheet. There are a few [how-tos](https://github.com/lortordermur/sfcalcsheet/wiki/How%E2%80%90tos) too. If you would like to share informal feedback or constructive criticism, there are an [official Reddit thread](https://www.reddit.com/r/worldbuilding/comments/iodfba/sfcalcsheet_science_fiction_calculation) and a [Discord channel](https://discord.gg/TTumbhQ) as well.
+To get started you can check out the [releases page](https://github.com/lortordermur/sfcalcsheet/releases), [some screenshots](https://github.com/lortordermur/sfcalcsheet/wiki/Screenshots), or [browse the formulas](https://github.com/lortordermur/sfcalcsheet/blob/master/formulas.pdf) that are used in the spreadsheet. There are a few [how-tos](https://github.com/lortordermur/sfcalcsheet/wiki/How%E2%80%90tos) too. If you would like to share informal feedback or constructive criticism, there are an [official Reddit thread](https://www.reddit.com/r/worldbuilding/comments/iodfba/sfcalcsheet_science_fiction_calculation) and a [Discord channel](https://discord.gg/TTumbhQ) as well.
 
 
 ### Included calculators and converters ###
@@ -142,7 +144,7 @@ Alas, many of the remaining glitches cannot be fixed without breaking SFCalcShee
 
 #### Where can I see the equations? ####
 
-Most of the math is (invisibly) performed in the cells right of the calculator boxes. If you move the selection to those you can see the formula in the input line at the top of the window. However, the wiki has it conveniently [all on one page](https://github.com/lortordermur/sfcalcsheet/wiki/Formulas).
+Most of the math is (invisibly) performed in the cells right of the calculator boxes. If you move the selection to those you can see the formula in the input line at the top of the window. However, the formulas PDF file has it conveniently [all in one place](https://github.com/lortordermur/sfcalcsheet/blob/master/formulas.pdf).
 
 #### What are those 12.34E+56 numbers about? ####
 
@@ -191,3 +193,9 @@ There are a couple of ways you can participate and help:
 * [Star](https://github.com/lortordermur/sfcalcsheet/stargazers) SFCalcSheet on GitHub.
 * [File an issue](https://github.com/lortordermur/sfcalcsheet/issues) on GitHub for a long-standing quirk or wanted feature.
 * Test and/or debug SFCalcSheet on various office suites, and post the results in the Reddit thread or on Discord.
+
+### Licenses used ###
+
+Project files: [The Unlicense](https://unlicense.org/)
+
+Logo background: [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en). Image source: [An artist's rendering of a planet in the sky. Lunar landscape star brown dwarf, science technology.](https://picryl.com/media/lunar-landscape-star-brown-dwarf-science-technology-c91acf)
