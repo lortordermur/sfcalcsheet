@@ -198,4 +198,4 @@ There are a couple of ways you can participate and help:
 
 Project files: [The Unlicense](https://unlicense.org/)
 
-Logo background: [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en). Image source: [An artist's rendering of a planet in the sky. Lunar landscape star brown dwarf, science technology.](https://picryl.com/media/lunar-landscape-star-brown-dwarf-science-technology-c91acf)
+Logo background: [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en); image source: [An artist's rendering of a planet in the sky. Lunar landscape star brown dwarf, science technology.](https://picryl.com/media/lunar-landscape-star-brown-dwarf-science-technology-c91acf)
