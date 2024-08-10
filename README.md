@@ -83,6 +83,7 @@ SFCalcSheet attempts to keep algebraic complexity on a manageable level for the 
 * Star radius
 * Star temperature
 * Star habitable zone
+* Stellar wind and mass loss
 * Roche limit
 * Albedo of planetary rings
 * Greenhouse effect part of planetary temperature
