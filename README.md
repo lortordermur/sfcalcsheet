@@ -21,6 +21,7 @@ To get started you can check out the [releases page](https://github.com/lortorde
   * Light years <-> parsec
   * km <-> AU
   * m/s <-> km/h
+  * HMS <-> degrees
   * Temperature
   * Length (SI <-> USCS)
   * Area (SI <-> USCS)
