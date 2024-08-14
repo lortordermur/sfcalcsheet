@@ -22,6 +22,7 @@ To get started you can check out the [releases page](https://github.com/lortorde
   * km <-> AU
   * m/s <-> km/h
   * HMS <-> degrees
+  * Degrees <-> radians
   * Temperature
   * Length (SI <-> USCS)
   * Area (SI <-> USCS)
