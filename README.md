@@ -146,6 +146,10 @@ Yes, but in several cases only with serious flaws that cannot be fixed in the sp
 
 Alas, many of the remaining glitches cannot be fixed without breaking SFCalcSheet in LibreOffice, because OpenDocument support is oftentimes outdated or incomplete.
 
+#### SFCalcSheet looks broken in Google Sheets. ####
+
+OpenDocument support in Google Docs has been worsening recently. A workaround is to export SFCalcSheet to .xlsx format in LibreOffice or Collabora Office and upload that exported file instead.
+
 #### Where can I see the equations? ####
 
 Most of the math is (invisibly) performed in the cells right of the calculator boxes. If you move the selection to those you can see the formula in the input line at the top of the window. However, the formulas PDF file has it conveniently [all in one place](https://github.com/lortordermur/sfcalcsheet/blob/master/formulas.pdf).
