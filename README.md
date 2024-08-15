@@ -73,6 +73,7 @@ To get started you can check out the [releases page](https://github.com/lortorde
   * FTL travel time
   * Time dilation
   * Uniform acceleration
+  * 3D distance
   * Terrestrial travel time
 
 
