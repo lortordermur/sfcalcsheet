@@ -15,3 +15,4 @@
   * **Done: “Matter/antimatter annihilation” calculator**
 * Metallicity parameter in “Star properties” and “Stellar evolution” calculators
 * Equatorial to galactic coordinates converter plus a degrees <-> radians converter
+  * **Done: “Equatorial <-> galactic coordinates” converter**
