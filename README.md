@@ -113,6 +113,10 @@ Here is [a comprehensive how-to](https://github.com/lortordermur/sfcalcsheet/wik
 
 The easiest way to not miss out on SFCalcSheet releases is to subscribe to the [Atom feed](https://github.com/lortordermur/sfcalcsheet/releases.atom) or follow me [on Twitter](https://twitter.com/lortordermur). Alternatively you can join the [Discord channel](https://discord.gg/TTumbhQ) which will notify you of any commits to the repository.
 
+#### Not all calculators from the list are in the spreadsheet, why? ####
+
+The README file follows the development version of SFCalcSheet so features may be mentioned that were not yet in the latest release. To get the development version click the green “code” button at the top of the web page and then "download ZIP", or alternatively download sfcalcsheet.ods directly from the file list.
+
 #### Does it really work in office suites other than LibreOffice? ####
 
 Yes, but in several cases only with serious flaws that cannot be fixed in the spreadsheet. SFCalcSheet uses some pretty fancy OpenDocument functions and cell styles, and therefore cannot be guaranteed to fully function in every office software. Apart from LibreOffice it has been tested in the following office suites featuring OpenDocument support:
