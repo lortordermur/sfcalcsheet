@@ -23,7 +23,7 @@ To get started you can check out the [releases page](https://github.com/lortorde
   * m/s <-> km/h
   * HMS <-> degrees
   * Degrees <-> radians
-  * Equatorial ↔ galactic coordinates
+  * Equatorial <-> galactic coordinates
   * Temperature
   * Length (SI <-> USCS)
   * Area (SI <-> USCS)
