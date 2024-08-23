@@ -25,6 +25,7 @@ To get started you can check out the [releases page](https://github.com/lortorde
   * HMS <-> degrees
   * Degrees <-> radians
   * Equatorial <-> galactic coordinates
+  * Equatorial to cartesian coordinates
   * Temperature
   * Length (SI <-> USCS)
   * Area (SI <-> USCS)
