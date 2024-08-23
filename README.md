@@ -20,6 +20,7 @@ To get started you can check out the [releases page](https://github.com/lortorde
 * **Conversion**: Unit conversion.
   * Light years <-> parsec
   * km <-> AU
+  * Light years <-> AU
   * m/s <-> km/h
   * HMS <-> degrees
   * Degrees <-> radians
