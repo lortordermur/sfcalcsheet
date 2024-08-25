@@ -11,7 +11,7 @@ This is a cross-suite spreadsheet for performing various science fiction and ast
 
 While being developed and maintained in [LibreOffice Calc](https://www.libreoffice.org), SFCalcSheet also works nicely in a number of additional office suites including [Google Sheets](https://docs.google.com/spreadsheets), [Excel Online](https://www.office.com/launch/excel) and [Collabora Office](https://www.collaboraoffice.com/).
 
-To get started you can check out the [releases page](https://github.com/lortordermur/sfcalcsheet/releases), [some screenshots](https://github.com/lortordermur/sfcalcsheet/wiki/Screenshots), or [browse the formulas](https://github.com/lortordermur/sfcalcsheet/blob/master/formulas.pdf) that are used in the spreadsheet. There are a few [how-tos](https://github.com/lortordermur/sfcalcsheet/wiki/How%E2%80%90tos) too. If you would like to share informal feedback or constructive criticism, there are an [official Reddit thread](https://www.reddit.com/r/worldbuilding/comments/iodfba/sfcalcsheet_science_fiction_calculation) and a [Discord channel](https://discord.gg/TTumbhQ) as well.
+To get started you can check out the [releases page](https://github.com/lortordermur/sfcalcsheet/releases), [some screenshots](https://github.com/lortordermur/sfcalcsheet/wiki/Screenshots), or [browse the formulas](https://github.com/lortordermur/sfcalcsheet/blob/master/formulas.pdf) that are used in the spreadsheet. There are a few [how-tos](https://github.com/lortordermur/sfcalcsheet/wiki/How%E2%80%90tos) too. If you would like to share informal feedback or constructive criticism, there are an [official Reddit thread](https://www.reddit.com/r/worldbuilding/comments/1f0wfro/sfcalcsheet_the_science_fiction_calculation/) and a [Discord channel](https://discord.gg/TTumbhQ) as well.
 
 
 ### Included calculators and converters ###
@@ -201,7 +201,7 @@ For this, please message [/u/lortordermur](https://www.reddit.com/user/lortorder
 
 There are a couple of ways you can participate and help:
 
-* Leave some feedback, praise or anecdotes [on Reddit](https://www.reddit.com/r/worldbuilding/comments/iodfba/sfcalcsheet_science_fiction_calculation) or [Discord](https://discord.gg/TTumbhQ).
+* Leave some feedback, praise or anecdotes [on Reddit](https://www.reddit.com/r/worldbuilding/comments/1f0wfro/sfcalcsheet_the_science_fiction_calculation/) or [Discord](https://discord.gg/TTumbhQ).
 * Request a specific calculator or feature.
 * Post some useful formulas in the Reddit thread or in the Discord channel and maybe I will turn them into a calculator.
 * [Star](https://github.com/lortordermur/sfcalcsheet/stargazers) SFCalcSheet on GitHub.
