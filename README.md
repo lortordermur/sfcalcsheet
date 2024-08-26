@@ -63,6 +63,7 @@ To get started you can check out the [releases page](https://github.com/lortorde
   * Matter/antimatter annihilation
   * Bomb blast
   * Earthquake
+  * Rick damage
 * **Life**: Calculators related to living beings.
   * Creature body weight
   * Vegetation color
