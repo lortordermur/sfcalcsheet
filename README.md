@@ -9,7 +9,7 @@
 
 This is a cross-suite spreadsheet for performing various science fiction and astronomy related calculations. The aim is to cover all common math problems in SF while keeping it simple for the user. The spreadsheet can assist with worldbuilding in science fiction and fantasy, or be used as an aid in amateur astronomy.
 
-While being developed and maintained in [LibreOffice Calc](https://www.libreoffice.org), SFCalcSheet also works nicely in a number of additional office suites including [Google Sheets](https://docs.google.com/spreadsheets), [Excel Online](https://www.office.com/launch/excel) and [Collabora Office](https://www.collaboraoffice.com/).
+While being developed and maintained in [LibreOffice Calc](https://www.libreoffice.org), SFCalcSheet also works nicely in [Excel Online](https://www.office.com/launch/excel), desktop Excel and [Collabora Office](https://www.collaboraoffice.com/). It works flawlessly in [Google Sheets](https://docs.google.com/spreadsheets) too if converted to .xlsx format first.
 
 To get started you can check out the [releases page](https://github.com/lortordermur/sfcalcsheet/releases), [some screenshots](https://github.com/lortordermur/sfcalcsheet/wiki/Screenshots), or [browse the formulas](https://github.com/lortordermur/sfcalcsheet/blob/master/formulas.pdf) that are used in the spreadsheet. There are a few [how-tos](https://github.com/lortordermur/sfcalcsheet/wiki/How%E2%80%90tos) too. If you would like to share informal feedback or constructive criticism, there are an [official Reddit thread](https://www.reddit.com/r/worldbuilding/comments/1f0wfro/sfcalcsheet_the_science_fiction_calculation/) and a [Discord channel](https://discord.gg/TTumbhQ) as well.
 
@@ -114,7 +114,7 @@ Here is [a comprehensive how-to](https://github.com/lortordermur/sfcalcsheet/wik
 
 #### How can I stay updated about new releases? ####
 
-The easiest way to not miss out on SFCalcSheet releases is to subscribe to the [Atom feed](https://github.com/lortordermur/sfcalcsheet/releases.atom) or follow me [on Twitter](https://twitter.com/lortordermur). Alternatively you can join the [Discord channel](https://discord.gg/TTumbhQ) which will notify you of any commits to the repository.
+The easiest way to not miss out on SFCalcSheet releases is to subscribe to the [Atom feed](https://github.com/lortordermur/sfcalcsheet/releases.atom). Alternatively you can join the [Discord channel](https://discord.gg/TTumbhQ) which will notify you of any commits to the repository.
 
 #### Not all calculators from the list are in the spreadsheet, why? ####
 
@@ -133,14 +133,14 @@ Yes, but in several cases only with serious flaws that cannot be fixed in the sp
 
 * **Web applications**
 
-  * **Google Sheets**: ***Completely functional*** after post-v0.09 fixes. Visual glitches with framed cells.
+  * **Google Sheets**: Only partly functional with visual glitches. Conversion to .xlsx format is recommended for full compatibility.
   * **Microsoft 365**/**Excel Online**: ***Near-completely functional*** after post-v0.10 fixes. Same glitches as in the desktop suite.
   * **Zoho sheet**: Mostly functional but calculator headings don’t show, and calculators using the IFS function (such as “Simple calculator” and “Structure properties and resources”) don’t work properly.
 
 * **Android apps**
 
   * **Collabora Office**: Same engine as the desktop software, ***completely functional***.
-  * **Google Sheets**: Same engine as the web application, ***completely functional***.
+  * **Google Sheets**: Same engine as the web application, only partly functional unless converted to .xlsx format first.
   * **Excel/Microsoft Office**: Outdated OpenDocument support, only partly functional.
   * **AndrOpen Office**: Outdated OpenDocument support, only partly functional.
   * **Zoho Sheet**: Same engine and glitches as the web application.
@@ -155,7 +155,7 @@ Alas, many of the remaining glitches cannot be fixed without breaking SFCalcShee
 
 #### SFCalcSheet looks broken in Google Sheets. ####
 
-OpenDocument support in Google Docs has been worsening recently. A workaround is to export SFCalcSheet to .xlsx format in LibreOffice or Collabora Office and upload that exported file instead.
+OpenDocument support in Google Docs has been worsening recently. A workaround is to export SFCalcSheet to .xlsx format in LibreOffice or Collabora Office and upload that exported file instead. You can also use an online converter such as [CloudConvert](https://cloudconvert.com/ods-to-xlsx).
 
 #### Where can I see the equations? ####
 
@@ -195,7 +195,7 @@ It is SFCalcSheet’s default font, [DejaVu Sans](https://dejavu-fonts.github.io
 
 #### How can I send you a private message? ####
 
-For this, please message [/u/lortordermur](https://www.reddit.com/user/lortordermur) on Reddit or [lortordermur](https://twitter.com/lortordermur) on Twitter. You can also message me on my [Discord server](https://discord.gg/TTumbhQ).
+For this, please message [/u/lortordermur](https://www.reddit.com/user/lortordermur) on Reddit. You can also message me on my [Discord server](https://discord.gg/TTumbhQ).
 
 
 ### How you can support the project ###
