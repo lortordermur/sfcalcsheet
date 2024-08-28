@@ -118,7 +118,7 @@ The easiest way to not miss out on SFCalcSheet releases is to subscribe to the [
 
 #### Not all calculators from the list are in the spreadsheet, why? ####
 
-The README file follows the development version of SFCalcSheet so features may be mentioned that were not yet in the latest release. To get the development version click the green “code” button at the top of the web page and then "download ZIP", or alternatively download sfcalcsheet.ods directly from the file list.
+The README file follows the development version of SFCalcSheet so features may be mentioned that were not yet in the latest release. To get the development version click the green “code” button at the top of the web page and then “download ZIP”, or alternatively download sfcalcsheet.ods directly from the file list.
 
 #### Does it really work in office suites other than LibreOffice? ####
 
