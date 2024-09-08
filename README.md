@@ -23,6 +23,7 @@ To get started you can check out the [releases page](https://github.com/lortorde
   * Light years <-> AU
   * m/s <-> km/h
   * HMS <-> degrees
+  * DMS <-> degrees
   * Degrees <-> radians
   * Equatorial <-> galactic coordinates
   * Equatorial to cartesian coordinates
