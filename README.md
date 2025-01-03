@@ -192,7 +192,7 @@ This is a known issue in Excel and there is currently no fix for it. To see the 
 
 #### What is that nice sans font in the LibreOffice screenshots? ####
 
-It is SFCalcSheet’s default font, [DejaVu Sans](https://dejavu-fonts.github.io). It comes preinstalled on most desktop Linux distributions.
+It is SFCalcSheet’s former default font, [DejaVu Sans](https://dejavu-fonts.github.io/). It comes preinstalled on many desktop Linux distributions. Starting with v0.22 SFCalcSheet switched to [Tex Gyre Heros](https://www.gust.org.pl/projects/e-foundry/tex-gyre).
 
 #### How can I send you a private message? ####
 
