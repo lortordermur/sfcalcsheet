@@ -130,7 +130,7 @@ Yes, but in several cases only with serious flaws that cannot be fixed in the sp
   * **Collabora Office**: Based on current LibreOffice. ***Completely functional*** without visual glitches.
   * **SoftMaker Office**: Well-functioning but calculator headings don’t show, as well as some background colors in random places.
   * **SoftMaker FreeOffice**: Outdated OpenDocument support, only partly functional.
-  * **Microsoft Excel**: ***Near-completely functional***. The only broken parts are the display of star color temperature and the height of word-wrapped cells.
+  * **Microsoft Excel**: ***Near-completely functional***. The only broken part is the display of star color temperature.
 
 * **Web applications**
 
